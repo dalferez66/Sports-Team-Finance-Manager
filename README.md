@@ -1,4 +1,4 @@
-# Sports Team Finance Tracker 🏈💰
+# Sports Team Finance Tracker 
 
 A Java-based financial management project designed for athletic teams/programs to track team expenses. This project demonstrates **Object-Oriented Programming (OOP)** principles and data handling.
 
@@ -18,4 +18,5 @@ A Java-based financial management project designed for athletic teams/programs t
 - `Expense.java`: The base parent class utilizing **Encapsulation**.
 - `Equipment.java` & `Travel.java`: Subclasses demonstrating **Method Overriding**.
 - `FileManager.java`: The Data Access Object (DAO) responsible for File I/O.
+
 
